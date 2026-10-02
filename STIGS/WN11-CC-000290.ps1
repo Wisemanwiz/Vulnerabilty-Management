@@ -1,4 +1,9 @@
- Author          : Wisdom Oke Eke
+    <#
+.SYNOPSIS
+    This PowerShell script ensures that remote desktop services must be configured with the client connection encryption set to the required level.
+
+.NOTES
+    Author          : Wisdom Oke Eke
     LinkedIn        : linkedin.com/in/wisdom-oke-eke
     GitHub          : github.com/Wisemanwiz
     Date Created    : 2026-26-09
